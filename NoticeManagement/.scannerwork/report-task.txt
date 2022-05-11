@@ -1,0 +1,6 @@
+projectKey=Labsheet3.2
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=Labsheet3.2
+ceTaskId=AX-Uq19HhJxjqALEnaE6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX-Uq19HhJxjqALEnaE6
